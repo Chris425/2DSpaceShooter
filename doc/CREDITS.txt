@@ -1,0 +1,5 @@
+This project might use assets from the following projects:
+
+http://opengameart.org/content/simple-spaceship
+http://opengameart.org/content/spaceships-drakir
+http://opengameart.org/content/asteroid-explosions-rocket-mine-and-laser
