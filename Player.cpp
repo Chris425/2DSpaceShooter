@@ -2,7 +2,7 @@
 * Christopher Di Conza, Final Project, PROG33921
 *
 *	Player class to draw and update the player spaceship. Also contains SDL event handlers for key presses; controls movement.
-*	Players will have 3 hits until destruction!
+*	Players will have 3 hits until game over
 ***/
 #include <iostream>
 
